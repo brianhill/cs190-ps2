@@ -1,4 +1,4 @@
-# CS 190 Problem Set #2&mdash;Keyboard Digits and Canonicalization
+# CS 190 Problem Set #2&mdash;Accepting Keyboard Input and Canonicalizing Registers
 
 In this problem set, in Parts 1 and 2, you will complete the part of the keyboard that enters digits. This is done with Xcode's storyboard editor.
 
@@ -7,8 +7,6 @@ In Part 3, you will complete the code that canonicalizes register C from whateve
 Course Home Page: http://physics.stmarys-ca.edu/classes/CS190_S16/index.html.
 
 My St. Mary's Home Page: http://physics.stmarys-ca.edu/lecturers/brianrhill/index.html.
-
-Due date slipped due to mistakes in my test cases. REBASE NEW TEST CASES INTO YOUR FORK.
 
 New due date: Before the beginning of class, Thursday, February 25th, 2016.
 
